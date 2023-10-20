@@ -20,7 +20,7 @@ flowchart BT
     CubismSDK(CubismSDK)
     nodejs(node.js)
     chatGPT(chatGPT)
-    browser(ブラウザ)
+    browser(Unity)
     user("俺😎")
 
     subgraph  
