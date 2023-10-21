@@ -44,3 +44,7 @@ ChatGPTからの返答をwavに変換できた時
 
 一定時間が経過した時
 
+
+# 要調査
+
+- Unity標準のAnimatorと、Cubism Motion Controllerはどっち使えばいいの？
