@@ -48,3 +48,5 @@ ChatGPTからの返答をwavに変換できた時
 # 要調査
 
 - Unity標準のAnimatorと、Cubism Motion Controllerはどっち使えばいいの？
+    - Animatorを使うと目の表示がおかしくなるが原因がわからん
+    - 今回は単純な状態遷移のみなので、自作のコントローラーからCubism標準を呼び出すようにする
